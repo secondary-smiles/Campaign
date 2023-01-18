@@ -1,0 +1,2 @@
+Wardens are mafia organizations that riddle the streets of The Blind Mother like a plague. Every gang member eventually outgrows their role and decides to 'ascend'. This process is usually bloody, sparking a schism in a gang that usually results in the deaths of the rebel gang members. Sometime, however, the rebel comes out on top and now controlling the gang begins to grow it in size and complexity of crime.
+Eventually, all Wardens powerful enough are approached by a representative of [[The Anathema]].

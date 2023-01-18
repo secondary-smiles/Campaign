@@ -1,0 +1,1 @@
+The Bête Noire is a small [[The Undercity||Undercity]] gang that reports to [[Copper Mask]], their "parent" [[Wardens|Warden]].

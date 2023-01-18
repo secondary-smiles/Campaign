@@ -1,0 +1,2 @@
+Lovell is a low-profile drug dealer who reports to [[The Bête Noire]] who supply Lovell with [[Silver (drug)|Silver]]. Alongside The Bête Noire, Lovell performs the experiments dictated by [[The Anathema]].
+Lovell thinks that it's the highest on the power scale, in reality Lovell is the lowest in the line commanding only [[Skints]] assuming they'll listen to him in the first place.

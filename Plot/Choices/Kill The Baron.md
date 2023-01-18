@@ -1,0 +1,6 @@
+- If the party decides to kill [[The Baron]], they may do so fairly easily. As he dies, he exclaims that [[The Anathema]] will "have their souls soon enough."
+- If they search his house and belongings, they'll find a note describing the next meeting location and time for The Anathema.
+- If the players eavesdrop on the meeting, they'll find that the members are planning for something they refer to as [[The Changing]]. The Changing will use [[Silver (drug)|Silver]] as one of its components, and it turns out The Anathema have been testing it on [[Skints]]. 
+- If the players instead bust into the meeting, all but one of the Anathema will pull out a small glass rod, break it, and vanish. The remaining Anathema will attempt to take down the party. Interrogating them will reveal the information above.
+- One-by-one the players must kill the Anathema while gathering information on what [[The Changing]] is.
+- [[The End]]

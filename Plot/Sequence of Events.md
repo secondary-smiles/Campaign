@@ -1,0 +1,23 @@
+- Players are sent to fetch a [[The Package|Package]] for [[The Baron]] in [[The Undercity]]
+- On returning they are told to stand guard for The Baron while he conducts private business in a building. (Foreshadowing)
+- While doing this task, they notice a peculiar [[Murder Victims|dead body]] before it is dumped, this person had been killed in a peculiar manner.
+- On return, the players are rewarded and allowed to rest.
+- If they decide to explore the city, they notice around 2 more [[Murder Victims]], killed in the same way.
+- Eventually, The Baron makes a joke about the murder victims, and tells them they might as well solve the mystery since he's got nothing else for them to do.
+- If the players ask around, they'll find that every victim so far has been a client to a major drug dealer known by the handle of [[Lovell]].
+- To find Lovell, the players can do a few things. The can;
+	- Look for other drug addicts that he sells to.
+	- Pay/perform a task for someone who knows him.
+	- Infiltrate the police force for more information on how to fine Lovell.x
+- Once found, Lovell tells them that a gang has been paying him to cut his drugs with a new [[Silver (drug)|chemical]] that he doesn't know much about. If threatened he will provide the name of the gang as well as some samples of the drug. Lovell will attempt to fight, and then flee before voluntarily giving up any information.
+- Upon investigation, the players will discover that the gang is known as [[The Bête Noire]] and heavily participates in Undercity [[Illegal Racing]]. To make contact with The Bête Noire, the players must aid (probably Ethans character) in building a vehicle that can compete with those of The Bête Noire, the longstanding champions of the race. [[Undercity Race Ark]]
+- Once they finish the race, Ethan's character will join the party and the Bête Noire will approach the players looking to eliminate, or gain counsel from the players. 
+- If forced to, the gang leader will admit that he takes orders from a [[Wardens|Warden]] known as [[Copper Mask]]. The gang leader will give approximate directions to Copper Mask.
+- Upon finding Copper Mask, the players may interrogate him. He will eventually admit to acquiring [[Silver (drug)|Silver]] from a wizened alchemist. 
+- To find this alchemist and discover more about Silver, Copper Mask readily gives the party a map and instructions to find the alchemist.
+- To find the alchemist, the party must traverse an [[The Undercity|Undercity]] [[Sewer Dungeon]], which ends up being a trap.
+- On returning to Copper Mask, he can be forced to reveal his knowledge of [[The Anathema]]. He has only ever met one member and does not know their identity. He does know, however, that he placed a tracker on one of his bodyguards and is willing to reveal it to them.
+- The tracker is, infact on one of the party members.
+- Now that the party is aware that [[The Baron]] is an Anathema, they should decide if they want to join him or kill him.
+	- If they [[Kill The Baron]]
+	- if they [[Join the Baron]]

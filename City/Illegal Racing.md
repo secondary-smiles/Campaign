@@ -1,0 +1,3 @@
+Illegal racing is a popular entertainment in [[The Undercity]]. Teams race magical vehicles through the Undercity in a violent, bloody race for victory.
+The first team to cross the finish line will win fame and money -- until the next race that is. Races happen often and always in different locations.
+the [[Ænigma Police]] have been known to turn a blind-eye to the sport so long as only the racers themselves are in danger.

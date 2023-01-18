@@ -1,0 +1,1 @@
+People who were killed by [[Lovell]] via the use of [[Silver (drug)|Silver]] are not commonly noticed as none but Lovell, [[The Bête Noire]], [[The Anathema]], and [[Lear]] actually know about its existence. The only sign of death they show is typically a minor puncture wound from the needle injection as well as one of the symptoms described in [[Silver (drug)]].

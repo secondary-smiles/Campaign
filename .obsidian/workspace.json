@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b8184a10c5faa03c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5204ed182ffd68c",
+        "type": "tabs",
+        "dimension": 21.44160583941606,
+        "children": [
+          {
+            "id": "9854e2342c5ea2fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9f4c40bdd9740ff",
+        "type": "tabs",
+        "dimension": 78.55839416058394,
+        "children": [
+          {
+            "id": "06cb952fbbf2b24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Dungeons/Police Headquarters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2846d8288385b153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Sequence of Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "620d57b300fa4b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Events/Undercity Race Ark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b9e6eaec2ee2a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Events/Getting the Power Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ed0c7620d28b5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ænigma Police.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c0b90fd3d945e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "City/Illegal Racing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "243e821b5222b603",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd4b13f9ffa979c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9534dcf4d5bc0ef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99e744fb26252776",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d23cbedec27bbe2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49d525a80da875b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "421dc4766d88dbf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce083c6213568fe3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Party Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81ccf81d9b169d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Party Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46cdc673e69774d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61619cc70f2905ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Party Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9854e2342c5ea2fa",
+  "lastOpenFiles": [
+    "Plot/Dungeons/Police Headquarters.md",
+    "Party Notes.md",
+    "Plot/Events/Getting the Power Core.md",
+    "City/Illegal Racing.md",
+    "Ænigma Police.md",
+    "Plot/Events/Undercity Race Ark.md",
+    "Plot/Sequence of Events.md",
+    "Plot/Items/The Ænigma.md",
+    "City/Politics/Power Groups/Wardens.md",
+    "Overview.md"
+  ]
+}

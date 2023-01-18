@@ -1,0 +1,2 @@
+- By the time the players kill the 7th [[The Anathema|Anathema]], it is too late and [[The Changing]] will have begun.
+- 
