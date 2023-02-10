@@ -1,12 +1,14 @@
-Coco -- Uniform
-Ethan_A -- 
-Gabriel -- 
-Ethan_K -- Uniform
-Sylvie -- Uniform
+Ethan_A -- 17
+Gabriel -- 13
+Allie -- 12
+Sylvie -- Uniform 7
+Ethan_K -- Uniform 4
 
-Allie -- 
+
+
+Coco -- Uniform
 
 Encounter:
-1
-2
-3
+3 21
+1 10
+2 8
