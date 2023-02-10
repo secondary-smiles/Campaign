@@ -11,4 +11,4 @@ Coco -- Uniform
 Encounter:
 3 21 -- 9
 1 10 -- 9
-2 8 -- 4
+2 8 -- 0
