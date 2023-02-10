@@ -221,11 +221,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,15 +238,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61619cc70f2905ab",
+  "active": "9854e2342c5ea2fa",
   "lastOpenFiles": [
     "Plot/Dungeons/Police Headquarters.md",
-    "Plot/Events/Undercity Race Ark.md",
+    "Plot/Sequence of Events.md",
     "Party Notes.md",
+    "Plot/Events/Undercity Race Ark.md",
     "Plot/Events/Getting the Power Core.md",
     "City/Illegal Racing.md",
     "Ænigma Police.md",
-    "Plot/Sequence of Events.md",
     "Plot/Items/The Ænigma.md",
     "City/Politics/Power Groups/Wardens.md",
     "Overview.md"
