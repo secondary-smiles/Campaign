@@ -7,3 +7,6 @@ Sylvie -- Uniform
 Allie -- 
 
 Encounter:
+1
+2
+3
