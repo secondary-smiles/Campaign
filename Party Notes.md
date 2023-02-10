@@ -9,6 +9,6 @@ Ethan_K -- Uniform 4
 Coco -- Uniform
 
 Encounter:
-3 21
-1 10
-2 8
+3 21 -- 30
+1 10 -- 30
+2 8 -- 30
